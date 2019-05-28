@@ -1,5 +1,5 @@
 <?php
 
-echo "techeditor";
+echo "TechEditor"."Algorithms + Data Structures = Programs";
 
 ?>
